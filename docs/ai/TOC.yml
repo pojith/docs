@@ -16,5 +16,21 @@
     href: /samples/browse/?languages=csharp%2Caspx-csharp%2Cfsharp%2Cvb&products=azure-cognitive-services
   - name: Search
     href: /samples/browse/?languages=csharp%2Caspx-csharp%2Cfsharp%2Cvb&products=azure-search
+- name: Connect to a model
+  items:
+  - name: Connect to models using Azure OpenAI SDK
+    href: https://dotnet.microsoft.com/
+  - name: Connect to models using Semantic Kernel
+    href: https://dotnet.microsoft.com/
+  - name: Connect using model-specific SDKs
+    href: https://dotnet.microsoft.com/
+- name: Work with data
+  items:
+  - name: Integrate data using Semantic Kernel
+    href: ./data/integrate-data-using-semantic-kernel.md
+  - name: Integrate data using vector store SDKs
+    href: ./data/integrate-data-using-vector-store-sdks.md
+  - name: Integrate data using Entity Framework Core
+    href: ./data/integrate-data-using-efcore.md
 - name: API reference
   herf: /dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview
